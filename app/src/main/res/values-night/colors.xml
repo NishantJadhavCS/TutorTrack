@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme's indigo (primaryContainer); the dark "primary" is a pale lavender that would glare. -->
+    <color name="splash_background">#FF253596</color>
+</resources>
